@@ -1,0 +1,15 @@
+# Betaflight / STM32F7 (S7X) 4.4.0
+# start the command batch
+batch start
+board_name MATEKF722
+manufacturer_id MTKS
+# feature adjustments
+feature TELEMETRY
+feature OSD
+set gyro_sync_denom = 2
+set looptime = 125
+set p_pitch = 45
+set i_pitch = 50
+set d_pitch = 30
+save
+# end the command batch

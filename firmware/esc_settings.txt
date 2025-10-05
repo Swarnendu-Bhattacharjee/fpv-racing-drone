@@ -1,0 +1,15 @@
+# ⚡ ESC Configuration (BLHeli_32)
+
+## Firmware
+- ESC Brand: [e.g., Holybro Tekko32 F3 45A]
+- Firmware: BLHeli_32 (v32.8)
+
+## Parameters
+- Motor Direction: Normal
+- PWM Frequency: 48 kHz
+- Startup Power: 0.75
+- Beacon Delay: 10 min
+- Brake on Stop: Enabled
+- Demag Compensation: High
+- Motor Timing: 22°
+- Temperature Protection: 140°C
