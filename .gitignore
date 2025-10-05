@@ -9,3 +9,7 @@ __pycache__/
 *.zip
 *.tar.gz
 
+*.Zone.Identifier
+*.mp4
+*.MOV
+*.avi
