@@ -25,7 +25,7 @@ It includes the **hardware architecture**, **PID-tuned firmware**, **build guide
 * 📈 **Flight Logs & Analysis:** Data visualization for tuning & diagnostics
 
 ---
-![FPV Racing Drone](media/final_images/DRONE SIDE PROFILE.jpg)
+![FPV Racing Drone](media/final_images/side.jpg)
 ![FPV Racing Drone](media/final_images/NIGHT.jpg)
 ---
 
