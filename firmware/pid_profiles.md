@@ -1,3 +1,7 @@
+---
+
+
+
 \# 🎛️ PID Profiles
 
 
@@ -18,11 +22,13 @@
 
 \### Notes
 
-\- Tested under calm wind conditions (~4 m/s).  
+\- Tested under calm wind conditions (~4 m/s).
 
-\- Yaw D-term disabled for noise reduction.  
+\- Yaw D-term disabled for noise reduction.
 
 \- All profiles verified on Betaflight Blackbox Analyzer.
 
 
+
+---
 

@@ -1,3 +1,7 @@
+---
+
+
+
 \# 📡 Telemetry Setup
 
 
@@ -47,4 +51,6 @@ save
 \- OSD telemetry overlay configured in Betaflight.
 
 
+
+---
 

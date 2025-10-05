@@ -1,3 +1,5 @@
+---
+
 \# 🧠 Firmware Overview
 
 
@@ -16,7 +18,7 @@
 
 \- \*\*Telemetry:\*\* SmartPort / CRSF  
 
-
+---
 
 \## Notes
 
@@ -27,4 +29,4 @@
 \- ESC parameters are synchronized with Betaflight motor outputs.
 
 
-
+---

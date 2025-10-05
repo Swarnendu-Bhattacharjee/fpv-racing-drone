@@ -1,3 +1,7 @@
+---
+
+
+
 \# 🛰️ Receiver \& Channel Mapping
 
 
@@ -24,11 +28,13 @@
 
 
 
-\*\*Receiver Protocol:\*\* CRSF (TBS Crossfire Nano RX)  
+\*\*Receiver Protocol:\*\* CRSF (TBS Crossfire Nano RX)
 
-\*\*Failsafe:\*\* Drop throttle + hold last roll/pitch for 1s then disarm  
+\*\*Failsafe:\*\* Drop throttle + hold last roll/pitch for 1s then disarm
 
 \*\*RSSI Channel:\*\* 8
 
 
+
+---
 
