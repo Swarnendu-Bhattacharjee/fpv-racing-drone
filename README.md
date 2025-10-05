@@ -123,7 +123,3 @@ This project is released under the **MIT License**.
 You are free to use, modify, and distribute this work with attribution.
 
 ---
-
-✅ Copy-paste this **exact version** into your `README.md` file — all bold, emojis, and tables will render perfectly on GitHub.
-
-Would you like me to also add a **tiny badge section** (Python version, license, repo size, etc.) at the top for a more professional look like major open-source projects?
